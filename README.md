@@ -39,11 +39,8 @@ This project is an end-to-end machine learning platform for Customer Lifetime Va
    ```
    streamlit run ann_clv_app.py
    ```
+4. Run the app:
+   ```
+   streamlit run app.py
+   ```
 
-## Data
-
-Place the provided AdventureWorks CSV files in the project directory.
-
----
-
-Let me know if you want this saved as your new README.md.
