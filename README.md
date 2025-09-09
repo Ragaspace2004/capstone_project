@@ -1,6 +1,3 @@
-Here is a simple README for your project, with no emojis and only the essentials:
-
----
 
 # Capstone Project
 
